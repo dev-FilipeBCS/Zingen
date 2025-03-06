@@ -72,11 +72,11 @@
 @media (width>=80em) {
     .btn-sm {
         padding: .75rem 1.5rem;
-        font-size: var(--fs-base);
+        font-size: var(--fs-sm);
     }
     
     .btn-md {
         padding: 1rem 2rem;
-        font-size: var(--fs-lg);
+        font-size: var(--fs-md);
     }
 }
